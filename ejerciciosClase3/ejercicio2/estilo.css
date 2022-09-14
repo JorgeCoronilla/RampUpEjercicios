@@ -1,0 +1,5 @@
+/*section p span { color: red; }*/
+
+section ol li { color:blue}
+p * a { color: red; }
+p, .destacado { color: red; }
