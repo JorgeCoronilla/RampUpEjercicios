@@ -1,0 +1,11 @@
+article p::first-line {
+    font-size: 120%;
+    font-weight: bold;
+}   
+body {
+    background-color: rgb(223, 240, 240);
+}
+
+article p:first-child {
+    color: red;
+}   

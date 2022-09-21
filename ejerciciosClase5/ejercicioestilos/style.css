@@ -1,0 +1,72 @@
+#titulo {
+    color:darkcyan
+}
+
+p strong {
+    color: red;
+}
+
+h1 + p span {
+    color:darkgoldenrod;
+}
+
+#subtitulo {
+    color: blue;
+}
+
+h2+p a {
+    color: red;
+}
+
+h2+p a em {
+    color: blue;
+}
+
+h2+p .especial {
+    color:rgb(185, 36, 185);
+}
+caption {
+    color: blue;
+}
+
+th, td {
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+}
+
+thead th {
+    color: orange;
+}
+tfoot th {
+    color: red;
+}
+
+td {
+    color: green;
+}
+
+tbody .especial {
+    color: darkgoldenrod;
+}
+
+table tbody th {
+    color: red;
+}
+
+td strong {
+    color: rgb(238, 182, 39);
+}
+
+#adicional {
+    color: rgb(144, 179, 85);
+}
+
+#adicional #especial {
+    color: pink;
+}
+
+div p a {
+    color: green;
+}
